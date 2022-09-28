@@ -12,7 +12,15 @@ I used HTML, CSS and basics of Javascript for basic styling of this project
 I implemented backtracking and recursion using Java
 This project is the practical implementation of DSA topics
 This program is to solve Sudoku puzzle using backtracking algorithm. The program should be designed to solve any NxN Sudoku. However, due to the complexity of large puzzles, only 9x9 is used.
-sudoku
+
+
+![Sudoku1](https://user-images.githubusercontent.com/76238929/192696233-421e792f-a0b4-4f39-8de3-935635a1b410.png)
+
+Solved Sudoku
+
+![Sudoku2](https://user-images.githubusercontent.com/76238929/192696367-cc32f84d-283f-486a-aa14-039bb7a842ce.png)
+
+
 
 Two buttons are displayed -
 1) To Create Puzzle
