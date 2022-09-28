@@ -7,28 +7,24 @@ The objective is to fill a nine-by-nine (9x9) grid with digits so that each row,
 
 To solve sudoku one doesn't require the knowledge of mathematics but require the logic and reasoning. Solving Sudoku Puzzles daily helps with your brain. It improves the concentration and logical thinking. One can look for sudoku puzzles given in Newspapers or can play them online provided by many websites.
 
-Features
-I used HTML, CSS and basics of Javascript for basic styling of this project
-I implemented backtracking and recursion using Java
-This project is the practical implementation of DSA topics
-This program is to solve Sudoku puzzle using backtracking algorithm. The program should be designed to solve any NxN Sudoku. However, due to the complexity of large puzzles, only 9x9 is used.
+Features :
+* I used HTML, CSS and basics of Javascript for basic styling of this project
+* I implemented backtracking and recursion using Java
+* This project is the practical implementation of DSA topics
+* This program is to solve Sudoku puzzle using backtracking algorithm. The program should be designed to solve any NxN Sudoku. However, due to the complexity of large    puzzles, only 9x9 is used.
 
-
-![Sudoku1](https://user-images.githubusercontent.com/76238929/192696233-421e792f-a0b4-4f39-8de3-935635a1b410.png)
-
-Solved Sudoku
-
-![Sudoku2](https://user-images.githubusercontent.com/76238929/192696367-cc32f84d-283f-486a-aa14-039bb7a842ce.png)
-
-
+![Sudoku 0](https://user-images.githubusercontent.com/76238929/192697067-5e914564-8b96-43ad-a318-97b116f339d7.png)
 
 Two buttons are displayed -
 1) To Create Puzzle
 This button create different random sudoku puzzles
 
-Create Puzzle
+![Sudoku1](https://user-images.githubusercontent.com/76238929/192697245-1d60d6b5-d393-4aa2-b937-16d94c3de072.png)
+
 
 2) To display solved sudoku puzzle
 This button displays the solution of the given sudoku puzzles
 
-Solve Puzzle
+![Sudoku2](https://user-images.githubusercontent.com/76238929/192697280-b0ea882f-9918-4d00-809d-371bc716bf34.png)
+
+
